@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "odyssey-store-official",
     "public": "build",
     "ignore": [
       "firebase.json",
